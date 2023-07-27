@@ -1,0 +1,57 @@
+@charset "UTF-8";
+ h1 {
+            font-family: "Bungee Spice";
+            font-size: 60px;
+            text-align: center;
+            border-bottom: 1px solid #000f;
+        }
+        h2 {
+            font-family: "Monaco", monospace;
+            color: #fff;
+            font-size: 50px;
+            margin-left: 9.5em;
+            line-height: 3em;
+        }
+        h3 {
+            font-family: 'Brush Script MT', cursive;
+            color: #fff;
+            font-size: 25px;
+            text-align: left;
+            margin-left: 19.5em;
+            margin-right: 48em;
+            line-height: 2em;
+        }
+        p {
+            font-family: 'Brush Script MT', cursive;
+            color: #fff;
+            font-size: 25px;
+            text-align: center;
+        }
+        body {
+            background-color: #265c5d
+        }
+        img{
+            margin-left: 30.5em;
+        }
+        footer {
+            border-top: 1px solid #000000;
+        }
+        footer p {
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 15px;
+                color: #767676;
+                text-align: center;
+        }
+        a {
+            text-decoration: none;
+        }
+        a:link {
+            color: #Ffa302;
+        }
+        a:visited {
+            color: #Ff777a;
+        }
+        a:active {
+            color: #F9d08d;
+            background-color: #fff;
+        }
